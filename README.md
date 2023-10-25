@@ -1,8 +1,4 @@
-# repositorio2023_24
-criando um repositório pc aula 1
-
-#KETLYN CRISTINA DE PAULA BENETTI
-
+### Ketlyn
 Sobre Mim....
 * meu apelido é kety.
 * gosto bastante de natureza.
