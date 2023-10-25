@@ -1,6 +1,5 @@
 ### Ketlyn
 Sobre Mim....
-* meu apelido é kety.
 * gosto bastante de natureza.
 * tenho 15 anos.
 * gosto de aprender sobre outras linguagens.
