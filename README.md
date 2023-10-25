@@ -9,4 +9,5 @@ Sobre Mim....
 * tenho 15 anos.
 * gosto de aprender sobre outras linguagens.
 * gosto de aprender sobre novas culturas, religioes e etc.
-https://i0.wp.com/lugarnenhum.net/wp-content/uploads/2021/08/Como-treinar-o-seu-dragao-3-1.jpg?fit=1399%2C733&ssl=1
+  ![]()
+  ![](https://media4.giphy.com/media/Y2iqFF4t0Qdzi/200w.gif?cid=6c09b952ncsw4dx2d88yey00sbvlt3xwvy26oqag4hi2rsos&ep=v1_gifs_search&rid=200w.gif&ct=g)
